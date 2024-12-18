@@ -3,4 +3,4 @@
 A simple example of dynamically loading instrument drivers.
 
 
-[a relative link](AgilentDriverHelp.html)
+[Agilent DMM Driver Help](AgilentDriverHelp.html)
