@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Keysight 3458A Driver</title>
+	</head>
+	<body>
+		<h1><center>Keysight 3458A Driver</center></h1>
+		<h3>Introduction:</h3>
+		<p>&emsp; This library is for controlling the Keysight 3458A Digital Multimeter and is intended to be used in conjunction with the Digital Multimeter interface.</p>
+		
+		<p>&emsp; Sample usage:</p>
+		<p>&emsp;&emsp;&emsp; <span style = "color:DeepPink">using</span> DMMInterface;</p>
+		
+		<p>&emsp;&emsp;&emsp; <span style = "color:ForestGreen">// Create new DMM object using GPIB address.</span></br>	
+		&emsp;&emsp;&emsp; <span style = "color:#00FFFF">Assembly</span> <span style = "color:#ADD8E6">DMMAssem</span> = <span style = "color:#00FFFF">Assembly</span><span style = "color:GoldenRod">.LoadFrom</span>(<span style = "color:DarkSalmon">@".\Test Programs\SM1472\AES_ITA_Driver.dll"</span>);<br>
+		&emsp;&emsp;&emsp; <span style = "color:#00FFFF">Type</span> DMMType = <span style = "color:#ADD8E6">DMMAssem</span><span style = "color:GoldenRod">.GetTypes()</span>[0];<br>
+		&emsp;&emsp;&emsp; <span style = "color:blue">object[]</span> args = { <span style = "color:DarkSalmon">"22"</span>};<br>
+		&emsp;&emsp;&emsp; <span style = "color:GoldenRod">IDMM</span> dmm = (IDMM)Activator.<span style = "color:GoldenRod">CreateInstance</span>(DMMType, args);<br>
+		
+		
+		<p>&emsp;&emsp;&emsp; <span style = "color:ForestGreen">// Measure DC voltage</span></br>
+		&emsp;&emsp;&emsp; <span style = "color:blue">double</span> <span style = "color:#ADD8E6">reading</span> = dmm.DC.Voltage.<span style = "color:GoldenRod">measure</span>();</p>
+		
+		<p>&emsp;&emsp;&emsp; <span style = "color:ForestGreen">// Measure two wire resistance</span></br>
+		&emsp;&emsp;&emsp; dmm.Resistance._2W.Range = <span style = "color:GoldenRod">IDMM.IResistance.I2W.RangeEnum</span>._1M;<br>
+		&emsp;&emsp;&emsp; <span style = "color:#ADD8E6">reading</span> = dmm.Resistance._2W.measure();</p>
+		
+
+		<br>
+		<h3>Library contents:</h3>
+		<ul>
+		<details>
+			<summary>ID</summary>
+			<div style = "color:blue">
+				<p>&emsp; Type: string</p>
+				<p>&emsp; Summary: Gets ID from instrument.</p>
+				<p>&emsp; Usage: string id = dmm.ID;</p>
+			</div>
+		</details>
+		<details>
+			<summary>Resistance</summary>
+			<ul>
+				<details>
+					<summary>Range</summary>
+					<div style = "color:blue">
+					<p>&emsp; Type: method</p>
+					<p>&emsp; Summary: Changes range.</p>
+					<p>&emsp; Usage: dmm.Resistance._2W.Range = IDMM.IResistance.I2W.RangeEnum._1M;</p>
+					</div>
+				</details>
+				<details>
+					<summary>measure</summary>
+					<div style = "color:blue">
+					<p>&emsp; Type: method</p>
+					<p>&emsp; Summary: Returns resistance measurement.</p>
+					<p>&emsp; Usage: double r = dmm.Measure.Frequency.Reading("3003");</p>
+					</div>
+				</details>
+			</ul>
+		</details>
+		<details>
+			<summary>DC</summary>
+			<ul>		
+				<details>
+					<summary>Voltage</summary>
+					<ul>
+						<details>
+							<summary>Range</summary>
+							<div style = "color:blue">
+							<p>&emsp; Type: method</p>
+							<p>&emsp; Summary: Changes range.</p>
+							<p>&emsp; Usage: dmm.DC.Voltage.Range = IDMM.IDC.IVoltage.RangeEnum._100;</p>
+							</div>
+						</details>
+						<details>
+							<summary>measure</summary>
+							<div style = "color:blue">
+							<p>&emsp; Type: method</p>
+							<p>&emsp; Summary: Returns DC voltage measurement.</p>
+							<p>&emsp; Usage: double r = dmm.DC.Voltage.measure();</p>
+							</div>
+						</details>
+					</ul>
+				</details>		
+				<details>
+					<summary>Current</summary>
+					<ul>
+						<details>
+							<summary>Range</summary>
+							<div style = "color:blue">
+							<p>&emsp; Type: method</p>
+							<p>&emsp; Summary: Changes range.</p>
+							<p>&emsp; Usage: dmm.DC.Current.Range = IDMM.IDC.ICurrent.RangeEnum._1;</p>
+							</div>
+						</details>
+						<details>
+							<summary>measure</summary>
+							<div style = "color:blue">
+							<p>&emsp; Type: method</p>
+							<p>&emsp; Summary: Returns DC current measurement.</p>
+							<p>&emsp; Usage: double r = dmm.DC.Current.measure();</p>
+							</div>
+						</details>
+					</ul>
+				</details>
+			</ul>
+		</details>	
+		<details>
+			<summary>AC</summary>
+			<ul>		
+				<details>
+					<summary>Voltage</summary>
+					<ul>
+						<details>
+							<summary>Range</summary>
+							<div style = "color:blue">
+							<p>&emsp; Type: method</p>
+							<p>&emsp; Summary: Changes range.</p>
+							<p>&emsp; Usage: dmm.AC.Voltage.Range = IDMM.IAC.IVoltage.RangeEnum._100;</p>
+							</div>
+						</details>
+						<details>
+							<summary>measure</summary>
+							<div style = "color:blue">
+							<p>&emsp; Type: method</p>
+							<p>&emsp; Summary: Returns AC voltage measurement.</p>
+							<p>&emsp; Usage: double r = dmm.AC.Voltage.measure();</p>
+							</div>
+						</details>
+					</ul>
+				</details>		
+				<details>
+					<summary>Current</summary>
+					<ul>
+						<details>
+							<summary>Range</summary>
+							<div style = "color:blue">
+							<p>&emsp; Type: method</p>
+							<p>&emsp; Summary: Changes range.</p>
+							<p>&emsp; Usage: dmm.AC.Current.Range = IDMM.IAC.ICurrent.RangeEnum._1;</p>
+							</div>
+						</details>
+						<details>
+							<summary>measure</summary>
+							<div style = "color:blue">
+							<p>&emsp; Type: method</p>
+							<p>&emsp; Summary: Returns AC current measurement.</p>
+							<p>&emsp; Usage: double r = dmm.AC.Current.measure();</p>
+							</div>
+						</details>
+					</ul>
+				</details>
+			</ul>
+		</details>			
+		</ul>
+	</body>
+</html>
