@@ -13,5 +13,5 @@ Keysight 3458A Digital Multimeter <br />
   For this sample project, two drivers can be selected, one is the Agilent 34401A, and the other is the Keithley 3458A. <br />
 
 ## Driver Help
-[Agilent DMM Driver Help](AgilentDMM\AgilentDriverHelp.html) <br />
-[Keysight DMM Driver Help](KeysightDMM\KeysightDriverHelp.html) <br />
+[Agilent DMM Driver Help](../AgilentDMM/AgilentDriverHelp.html) <br />
+[Keysight DMM Driver Help](../KeysightDMM/KeysightDriverHelp.html) <br />
