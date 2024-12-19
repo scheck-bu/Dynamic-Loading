@@ -1,0 +1,28 @@
+H:\Software Development\AgilentDMM\AgilentDMM\bin\Debug\AgilentDMM.dll
+H:\Software Development\AgilentDMM\AgilentDMM\bin\Debug\AgilentDMM.pdb
+H:\Software Development\AgilentDMM\AgilentDMM\bin\Debug\DMMInterface.dll
+H:\Software Development\AgilentDMM\AgilentDMM\bin\Debug\DMMInterface.pdb
+H:\Software Development\AgilentDMM\AgilentDMM\bin\Debug\DMMInterface.xml
+H:\Software Development\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.csproj.CoreCompileInputs.cache
+H:\Software Development\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.csproj.CopyComplete
+H:\Software Development\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.dll
+H:\Software Development\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.pdb
+H:\Software Development\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.Common.dll
+H:\Software Development\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.Common.Native.dll
+H:\Software Development\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.VisaNS.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\AgilentDMM.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\AgilentDMM.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.Common.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.VisaNS.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.MStudioCLM.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\DMMInterface.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\DMMInterface.xml
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.Common.xml
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\NationalInstruments.VisaNS.xml
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.csprojAssemblyReference.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.csproj.CoreCompileInputs.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.csproj.CopyComplete
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\obj\Debug\AgilentDMM.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Drivers\AgilentDMM\AgilentDMM\bin\Debug\DMMInterface.dll

@@ -1,0 +1,20 @@
+H:\Software Development\DMMInterface\DMMInterface\bin\Debug\DMMInterface.dll
+H:\Software Development\DMMInterface\DMMInterface\bin\Debug\DMMInterface.pdb
+H:\Software Development\DMMInterface\DMMInterface\bin\Debug\DMMInterface.xml
+H:\Software Development\DMMInterface\DMMInterface\obj\Debug\DMMInterface.Resources.resources
+H:\Software Development\DMMInterface\DMMInterface\obj\Debug\DMMInterface.vbproj.GenerateResource.cache
+H:\Software Development\DMMInterface\DMMInterface\obj\Debug\DMMInterface.vbproj.CoreCompileInputs.cache
+H:\Software Development\DMMInterface\DMMInterface\obj\Debug\DMMInterface.dll
+H:\Software Development\DMMInterface\DMMInterface\obj\Debug\DMMInterface.xml
+H:\Software Development\DMMInterface\DMMInterface\obj\Debug\DMMInterface.pdb
+H:\Software Development\DMMInterface\DMMInterface\obj\Debug\DMMInterface.vbprojAssemblyReference.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\bin\Debug\DMMInterface.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\bin\Debug\DMMInterface.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\bin\Debug\DMMInterface.xml
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\obj\Debug\DMMInterface.Resources.resources
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\obj\Debug\DMMInterface.vbproj.GenerateResource.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\obj\Debug\DMMInterface.vbproj.CoreCompileInputs.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\obj\Debug\DMMInterface.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\obj\Debug\DMMInterface.xml
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\obj\Debug\DMMInterface.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\Interfaces\DMMInterface\DMMInterface\obj\Debug\DMMInterface.vbprojAssemblyReference.cache

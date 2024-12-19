@@ -1,0 +1,34 @@
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMSoftPanel.exe.config
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMSoftPanel.exe
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMSoftPanel.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMInterface.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMInterface.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMInterface.xml
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.Form1.resources
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.Properties.Resources.resources
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.GenerateResource.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.CoreCompileInputs.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.CopyComplete
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.exe
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.AssemblyReference.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.SuggestedBindingRedirects.cache
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DmmAdditionalInterface.dll
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DmmAdditionalInterface.pdb
+I:\Operations\Test Engineering\Test Eng\Software Development\Equipment\SoftPanels\DMMSoftPanel\DMMSoftPanel\bin\Debug\DmmAdditionalInterface.xml
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.AssemblyReference.cache
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.SuggestedBindingRedirects.cache
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.Form1.resources
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.Properties.Resources.resources
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.GenerateResource.cache
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.CoreCompileInputs.cache
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.exe
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.pdb
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMSoftPanel.exe.config
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMSoftPanel.exe
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMSoftPanel.pdb
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\bin\Debug\DmmAdditionalInterface.pdb
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\bin\Debug\DmmAdditionalInterface.xml
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMInterface.pdb
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\bin\Debug\DMMInterface.xml
+D:\Statistics\DMMSoftPanel\DMMSoftPanel\obj\Debug\DMMSoftPanel.csproj.CopyComplete

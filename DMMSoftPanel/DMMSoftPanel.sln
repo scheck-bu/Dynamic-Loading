@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMMSoftPanel", "DMMSoftPanel\DMMSoftPanel.csproj", "{095948A7-9388-4C20-8B20-5457B8AA48E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095948A7-9388-4C20-8B20-5457B8AA48E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095948A7-9388-4C20-8B20-5457B8AA48E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095948A7-9388-4C20-8B20-5457B8AA48E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095948A7-9388-4C20-8B20-5457B8AA48E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {320BEFF8-456A-4095-8917-F5EFB15CD5DA}
+	EndGlobalSection
+EndGlobal
